@@ -1,4 +1,5 @@
 <template>
+<<<<<<< codex/establish-project-structure-for-vue-render-3qz6oq
   <div class="page-shell">
     <div class="container">
       <el-row :gutter="16">
@@ -1355,5 +1356,17 @@ const PageRenderer = defineComponent({
   .page-shell {
     padding: 12px;
   }
+=======
+  <div class="app">vue-render scaffold is ready.</div>
+</template>
+
+<script setup lang="ts">
+</script>
+
+<style scoped>
+.app {
+  padding: 16px;
+  font-family: Arial, sans-serif;
+>>>>>>> main
 }
 </style>

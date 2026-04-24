@@ -9,8 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< codex/establish-project-structure-for-vue-render-3qz6oq
     "vue": "^3.5.0",
     "element-plus": "^2.8.0"
+=======
+    "vue": "^3.5.0"
+>>>>>>> main
   },
   "devDependencies": {
     "typescript": "^5.6.0",
